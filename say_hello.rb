@@ -1,7 +1,4 @@
-def say_hello
-  puts "Hello #{name}"
-end
-
-def say_hello
-  puts "Hello Ruby Programmer!"
+def say_hello(name)
+  if "Hello #{name}"
+  else "Hello Ruby Programmer!"
 end  
