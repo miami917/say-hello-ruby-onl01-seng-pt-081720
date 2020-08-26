@@ -1,4 +1,4 @@
 def say_hello
-  if "Hello #{name}"
-   "Hello Ruby Programmer!"
+  puts "Hello #{name}"
+  puts "Hello Ruby Programmer!"
 end  
